@@ -10,7 +10,13 @@
 
 ## 技能目录
 
-目录已建立，首批技能项目整理中；目前尚未收录已发布的技能仓库。
+### [Robotics Research Slides](https://github.com/YushuoWang29/robotics-research-slides)
+
+面向机器人周组会、文献综述和阶段进展汇报的科研汇报技能，提供叙事组织、图示与版式规范、参考资料、示例和检查脚本；要求实际 PPTX 渲染、逐页视觉检查与修复复核。
+
+- 适用工具：支持读取 `SKILL.md` 的 AI agent；随附 Python 检查脚本。运行条件见项目说明。
+- 使用入口：[README 与安装说明](https://github.com/YushuoWang29/robotics-research-slides/blob/main/README.md)、[SKILL.md](https://github.com/YushuoWang29/robotics-research-slides/blob/main/SKILL.md)。保留完整目录，放入 agent 的 skill 搜索路径，或让 agent 从 `SKILL.md` 入口读取。
+- 维护状态：可用，v1.0（用户确认的正式版本），已发布完整技能源文件。
 
 后续项目将按下面的信息展示：
 
